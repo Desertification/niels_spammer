@@ -2,7 +2,7 @@
 A basic application to annoy your "friends"
 
 # Installation
-might require this [dll](msdn.microsoft.com/en-us/library/dd375731z)
+clone it
 
 # Usage
 1. `> python niels_spammer.py`
